@@ -1,0 +1,5 @@
+slack_channel : apideneme
+slack_username: DatabaseInformera
+web_hook_url: https://hooks.slack.com/services/*********************
+slack_channel_info: infochannel
+slack_channel_info: errorchannel
